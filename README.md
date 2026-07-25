@@ -1,6 +1,6 @@
 # Eric M. Cardozo
 
-I'm Eric, a physics graduate who turns mathematical theory into software infrastructure. My background in statistical physics heavily influences my core research interest: understanding machine learning from a physics perspective. While I'd love to dive into the physics here, this space is dedicated to showcasing the open-source software tools and engineering projects I build and maintain.
+I'm Eric, a physics graduate who turns mathematical theory into software infrastructure. While I'd love to dive into the physics here, this space is dedicated to showcasing the open-source software tools and engineering projects I build and maintain.
 
 ## Python Developer Tools
 
@@ -27,6 +27,4 @@ Tannic is my attempt to address this. By moving core machine learning logic back
   * **[ConvNet on MNIST](https://github.com/eric-m-cardozo/cnn-server-example):** A classic image classification model demonstrating the framework's core 2D convolutional operations.
   * **[Vision Transformer (ViT)](https://github.com/eric-m-cardozo/vit-server-example):** Showcases the framework's ability to handle self-attention mechanisms and modern transformer architectures.
   * **[Llama 3 Inference Server](https://github.com/eric-m-cardozo/Llama3-cpp):** An end-to-end LLM inference server featuring custom POSIX socket networking to run Llama 3 models natively.
-* **[PyTannic](https://github.com/eric-m-cardozo/PyTannic):** Python utilities bridging PyTorch and Tannic via network communication, including tools to serialize PyTorch models into Tannic's custom format. *(Read the [Documentation](https://eric-m-cardozo.github.io/PyTannic/))*
-
 * **[PyTannic](https://github.com/eric-m-cardozo/PyTannic):** Python utilities bridging PyTorch and Tannic via network communication, including tools to serialize PyTorch models into Tannic's custom format. *(Read the [Documentation](https://eric-m-cardozo.github.io/PyTannic/))*
