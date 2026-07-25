@@ -14,7 +14,7 @@ I'm Eric, a physics graduate who turns mathematical theory into software infrast
 
 ## The Tannic Framework
 
-*My current active focus: a pure C++ machine learning ecosystem built entirely from scratch.*
+*Currently working on the Tannic Framework: a pure C++ machine learning ecosystem.*
 
 The ML landscape moves so fast that mainstream frameworks have become bloated with compilers, domain-specific sub-languages, and hardcoded CUDA kernels in strings. They often end up harder to use and maintain than plain C++ codebases. Furthermore, Python's interpreter overhead and memory unpredictability make deployment a nightmare. The bottleneck in production is no longer writing code, it's fighting Python.
 
@@ -28,3 +28,12 @@ Tannic is my attempt to address this. By moving core machine learning logic back
   * **[Vision Transformer (ViT)](https://github.com/eric-m-cardozo/vit-server-example):** Showcases the framework's ability to handle self-attention mechanisms and modern transformer architectures.
   * **[Llama 3 Inference Server](https://github.com/eric-m-cardozo/Llama3-cpp):** An end-to-end LLM inference server featuring custom POSIX socket networking to run Llama 3 models natively.
 * **[PyTannic](https://github.com/eric-m-cardozo/PyTannic):** Python utilities bridging PyTorch and Tannic via network communication, including tools to serialize PyTorch models into Tannic's custom format. *(Read the [Documentation](https://eric-m-cardozo.github.io/PyTannic/))*
+
+---
+
+## Connect
+
+If you'd like to discuss software architecture, C++ machine learning, Python tooling, or open-source development, feel free to reach out.
+
+- **Email:** <eric.cardozo@gmail.com>
+- **LinkedIn:** [eric-c](https://www.linkedin.com/in/eric-c-660099185/)
