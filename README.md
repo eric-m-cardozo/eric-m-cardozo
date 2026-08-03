@@ -31,5 +31,5 @@ Tannic is my attempt to address this. By moving core machine learning logic back
 
 If you'd like to discuss software architecture, C++ machine learning, Python tooling, or open-source development, feel free to reach out.
 
-- **Email:** <eric.cardozo@gmail.com>
+- **Email:** <eric.m.cardozo@gmail.com>
 - **LinkedIn:** [eric-c](https://www.linkedin.com/in/eric-c-660099185/)
