@@ -7,7 +7,7 @@ I'm Eric, a physics graduate who likes to turn mathematics and physics into soft
 *Originally built as proofs of concept while exploring architectural patterns and domain-driven design (DDD), these libraries have evolved into utilities for development. Published on PyPI.*
 
 * **[PyDepends](https://github.com/eric-m-cardozo/PyDepends):** A lightweight, dependency injection framework designed for ease of use.
-* **[PyMsgbus](https://github.com/eric-m-cardozo/PyMsgbus):** An event-driven messaging framework for pub/sub architectures. *(Read the [Documentation](https://eric-m-cardozo.github.io/PyMsgBus/))*
+* **[PyMsgbus](https://github.com/eric-m-cardozo/PyMsgbus):** An event-driven messaging framework for pub/sub architectures. *(Read the [Documentation](https://eric-m-cardozo.github.io/PyMsgbus/))*
 * **[TorchSystem](https://github.com/eric-m-cardozo/TorchSystem):** A modular toolkit built to cleanly separate logic from messy infrastructure in PyTorch. *(Read the [Documentation](https://eric-m-cardozo.github.io/TorchSystem/))*
 
 ## The Tannic Framework
